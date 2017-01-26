@@ -1,4 +1,4 @@
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 800px) {
   
   /**********************************
   TWO COLUMN LAYOUT
@@ -12,6 +12,31 @@
   #secondary {
     width: 40%;
     float: right;
+  }
+  
+  /**********************************
+  PAGE: PORTFOLIO
+  ***********************************/
+  
+  #gallery li {
+	  width: 28.3333%;
+  }
+  
+  #gallery li:nth-child(3n){
+	  clear:none;
+}
+  
+  #gallery li:nth-child(4n){
+	  clear:left;
+  }
+  
+  /**********************************
+  PAGE: ABOUT
+  ***********************************/
+  
+  .profile-photo {
+	  float:left;
+	  margin: 0 5% 80px 0;
   }
   
 }
