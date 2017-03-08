@@ -17,18 +17,7 @@
   /**********************************
   PAGE: PORTFOLIO
   ***********************************/
-  
-  #gallery li {
-	  width: 28.3333%;
-  }
-  
-  #gallery li:nth-child(3n){
-	  clear:none;
-}
-  
-  #gallery li:nth-child(3n+1){
-	  clear:left;
-  }
+
   
   /**********************************
   PAGE: ABOUT
@@ -75,6 +64,22 @@
   header{
 	  border-bottom: 5px solid #599a68;
 	  margin-bottom: 40px;
+  }
+	
+	  /**********************************
+  PAGE: PORTFOLIO
+  ***********************************/
+  
+  #gallery li {
+	  width: 45%;
+  }
+  
+  #gallery li:nth-child(2n){
+	  clear:none;
+}
+  
+  #gallery li:nth-child(2n+1){
+	  clear:left;
   }
   
 }
