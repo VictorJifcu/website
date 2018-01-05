@@ -1,0 +1,3483 @@
+ARM BAR
+Submission
+-
+You may discard any number of cards. For each card discarded, inflict +1 DMG to your opponent.
+Looks like you should have tapped sooner!
+Jake Kalbhenn
+1
+1
+0
+1
+0
+2
+
+BODY HOOK
+Punch
+-
+Display the top 3 cards of your deck. Inflict +1 DMG for every Attack card shown. Shuffle the cards back into your deck.
+I’ve got lawn chairs that don’t fold as easily as you do!
+Todd McCullough
+0
+0
+1
+1
+1
+0
+
+CHECK KICK
+Counter
+Must be revealed against a valid Kick card.
+Cancel the Kick card’s Action and inflict 2 DMG to your opponent. You still take the base DMG from that card. End the Combo.
+-
+Patrick Guschewski
+0
+0
+1
+0
+0
+0
+
+COUNTER PUNCH
+Counter
+Must be revealed against a valid Punch card.
+Cancel the Punch card’s Action and inflict the base DMG you would have taken to your opponent instead. End the Combo.
+-
+Patrick Guschewski & Kendrick Tu
+0
+0
+1
+0
+0
+0
+
+CROSS
+Punch
+-
+Inflict +2 DMG if you previous card in the Combo was valid and had JAB in the title.
+Here comes the follow up!
+Saar Bodman
+1
+0
+1
+1
+1
+1
+
+FEINT
+Special
+-
+Anytime before you reveal the next card in your Combo you may switch it with a card in your hand without revealing either.
+-
+Rachel DiSabatino
+0
+0
+1
+1
+1
+0
+
+GOOD CORNER
+Special
+-
+You may switch 1 unrevealed card in your Combo with another unrevealed card in your Combo. If you do, your opponent may do the same.
+-
+Robyn Lau
+0
+0
+1
+1
+0
+0
+
+GUILLOTINE
+Submission
+-
+Inflict DMG equal to 2x the number of valid Level Change cards in your opponent’s Combo prior to this card.
+Protect your neck.. or not.
+Te’Shawn Dwyer
+0
+1
+0
+1
+0
+0
+
+HIGH KICK
+Kick
+Must follow a valid Punch or Special card from either player.
+Reveal your hand. Inflict +1 DMG for each Grappling card in your hand.
+-
+Kendrick Tu
+1
+0
+1
+0
+1
+2
+
+HIP TOSS
+Level Change
+Must be the last card in your Combo.
+Change to the Ground Level.
+You’ve fallen and you can’t get up!
+Joshua Rosen
+1
+0
+1
+0
+1
+1
+
+JAB
+Punch
+-
+-
+Here’s the lead!
+Alex Perkins
+1
+0
+1
+1
+1
+1
+
+KNEE BAR
+Submission
+-
+Reduce the DMG of this card by 1 for each card in your opponent’s hand.
+Hey, you don’t need these to walk, do you?
+Te’Shawn Dwyer
+1
+1
+0
+1
+0
+4
+
+LOW KICK
+Kick
+Must follow a valid Punch or Special card from either player.
+Your opponent must discard a card of their choice. If they cannot discard, inflict +1 DMG.
+-
+Kendrick Tu
+1
+0
+1
+0
+1
+1
+
+REAR NAKED CHOKE
+Submission
+Only one valid Rear Naked Choke can be played in your Combo.
+Inflict DMG equal to 2x the number of valid Grappling cards in your Combo prior to this card.
+-
+Jake Kalbhenn
+0
+1
+0
+1
+0
+0
+
+SECOND WIND
+Special
+-
+If you have no cards in your hand you may draw 1 card.
+Get up and fight! You’re a bum!
+Rachel DiSabatino
+0
+1
+1
+1
+0
+0
+
+SHELL
+Shield
+Discard one or more cards, otherwise this card is invalid.
+For each card discarded, reduce the DMG from your opponent’s Attack card by 2. Actions from the Attack card still apply.
+-
+Meaghan Carter
+0
+0
+1
+1
+0
+0
+
+SINGLE LEG TAKEDOWN
+Level Change
+Discard one or more Grappling cards, otherwise this card is invalid.
+Change Levels. Your opponent may discard the same number of Grappling cards as you did to cancel the Level Change.
+-
+Daisy Chan
+0
+1
+1
+1
+0
+0
+
+SPRAWL
+Counter
+Must be revealed against a valid Level Change card. (May be used even if no Level Change was attempted.)
+Cancel its Actions. End the Combo.
+-
+Meaghan Carter
+0
+0
+1
+1
+0
+0
+
+SWEEP
+Level Change
+Discard a card, otherwise this card is invalid.
+Choose one: 1 - Change to the Standing Level 2 - Reduce Submission DMG for this exchange to 0 (Defence only.)
+-
+Patrick Guschewski
+0
+1
+0
+1
+0
+0
+
+Stomp
+Kick
+-
+ACTION: Inflict 1 extra DMG if you are in the GROUND LEVEL.
+-
+-
+1
+0
+1
+1
+1
+1
+
+Thai Roundhouse
+Kick
+-
+MUAY THAI ACTION: Reveal your Stamina. Your opponent must discard Stamina equal to the number of special-type cards in your hand. Afterwards, trade your Stamina with your Deck.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Thai Knee
+Kick
+You must reveal your hand. This card is invalid if your opponent has any Tokens on them.
+MUAY THAI ACTION: If you have 2 or more KNEE and/or THAI KNEE cards in your Stamina, you can place one STUN TOKEN on your opponent's Fighter. 
+-
+-
+1
+0
+1
+0
+1
+2
+
+Crescent Kick
+Kick
+-
+TAEKWONDO ACTION: If your opponent plays a Defence-type card in this Exchange, cancel its ACTIONs
+-
+-
+1
+0
+1
+0
+1
+2
+
+Eye of the Tiger
+Kick
+-
+ACTION: You can Discard any number of Stamina. Send the same number of cards from the top of your deck to the discard pile
+-
+-
+1
+0
+1
+0
+1
+1
+
+Side Kick
+Kick
+Must be the first card in your Combo.
+TAEKWONDO ACTION: Inflict 2 extra DMG
+-
+-
+1
+0
+1
+0
+1
+1
+
+Front Kick
+Kick
+You must discard 1 Stamina.
+TAEKWONDO ACTION:You must reveal your Stamina. Inflict 2 extra DMG per KICK-TYPE card in your hand
+-
+-
+1
+0
+1
+0
+1
+2
+
+Inside Low Kick
+Kick
+Must follow any LOW KICK card. 
+ACTION: Your opponent cannot refill their stamina for the rest of the Combo. If they have 0 Stamina, inflict 2 extra damage.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Hard Low Kick
+Kick
+Must follow a punch-type or special-type card from either player:
+ACTION: Your opponent can reduce this card's DMG to 0 by discarding Stamina, equal to the number of valid LOW KICK cards in your combo before this card.
+-
+-
+1
+0
+1
+0
+1
+2
+
+Unrefined Technique
+Kick
+If a copy of this card was revealed in 'RAGE', you can use the Action: 
+STREET BRAWLER ACTION: your opponent's valid Combo Breaker-Type card in this exchange become invalid.
+-
+-
+1
+0
+1
+1
+1
+1
+
+Groin Strike
+Kick
+Your Fighter must have the KRAV MAGA style.
+KRAV MAGA ACTION: Trade the next card in your Combo with a card that has a KRAV MAGA ACTION from your Deck. 
+-
+-
+1
+0
+1
+0
+1
+3
+
+Meia Lua de Compasso
+Kick
+Must follow a Punch-Type card or Special-Type card.
+CAPOEIRA ACTION: If you have a copy of this card in your Discard Pile, you can treat this card as a SPECIAL-TYPE card
+-
+-
+1
+0
+1
+0
+1
+1
+
+Scorpion Kick
+Kick
+Must follow a Punch or Special-Type card
+CAPOEIRA ACTION: Inflict 1 extra dmg per each copy of this card in your Discard Pile.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Chasse Bas
+Kick
+-
+SAVATE ACTION: If this card follows a valid card with a SAVATE ACTION: Search your Deck for 1 SPECIAL-TYPE card and add it to your Stamina. Then you must discard 1 Stamina.
+-
+-
+1
+0
+1
+0
+1
+2
+
+Achilles Kick
+Kick
+-
+SAVATE ACTION: Trade the next card in your Combo with a card from your ATTACK DECK that has a SAVATE ACTION.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Back Kick
+Kick
+-
+ACTION: This card Inflicts extra DMG equal to the number of ATTACK cards in your Discard Pile, then shuffle your Discard Pile back into your ATTACK DECK.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Pure Instinct
+Kick
+-
+ACTION: Reduce DMG from this card to 0.
+-
+-
+1
+0
+1
+0
+1
+3
+
+Oblique Kick
+Kick
+-
+ACTION: Your opponent's Level-change type card in this Exchange is invalid. If your opponent reveals a level-change type card in this exchange, inflict 1 extra DMG.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Cartwheel Kick
+Kick
+Display your opponent's Stamina.
+ACTION: If the top card of your opponent's Discard Pile is also displayed in your opponent's Stamina, they must Discard all copies of that card from their Stamina.
+-
+-
+1
+0
+1
+0
+1
+2
+
+Butterfly Kick
+Kick
+Must follow a Kick-Type card
+ACTION: Send the top card of your opponent's deck to the Discard pile. If it is a submission-type card with base damage, inflict that card's DMG to your opponent instead.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Drop Kick
+Kick
+-
+ACTION: Send the top card of your opponent's deck to the Discard pile. If it is a defense-type card, all cards that can refill Stamina in this Combo are invalid for the rest of the Combo.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Scissor Kick
+Kick
+-
+ACTION: Your opponent can discard 1 Stamina and reduce all Damage from this card to 0.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Wheel Kick
+Kick
+You must declare 1 class of card, then reveal your opponent's Stamina.
+ACTION: If that class is the majority of their Stamina, they must Discard one Stamina of their choice. If that class is not, you must Discard 1 Stamina
+-
+-
+1
+0
+1
+0
+1
+1
+
+Knee
+Kick
+Limit one STUN TOKEN per Fighter, per Combo. You must complete your combo.
+ACTION: If your combo ended in the Standing level and you inflicted more than 5 DMG you can place one STUN TOKEN on your opponent's Fighter at the end of the Combo.
+-
+-
+1
+0
+1
+1
+1
+1
+
+Toe Kick
+Kick
+Cannot follow another 'Toe Kick'
+ACTION: Display your opponent's stamina cards. If they are all the same class of card, you can discard one of their Stamina. If they cannot discard any Stamina, inflict 1 extra DMG
+-
+-
+1
+0
+1
+0
+1
+1
+
+Teep
+Kick
+Reveal your Stamina. Your opponent must Reveal their Stamina.
+ACTION: If you share a CLASS with your opponent and your opponent reveals a valid Combo breaker-type card in this Exchange, ignore any sentence that Ends the Combo.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Roundhouse
+Kick
+-
+ACTION: Before revealing their Defence CARD, your opponent must trade their card with a different card in their hand. If they cannot, Inflict an extra 2 DMG. 
+-
+-
+1
+0
+1
+1
+1
+1
+
+Axe Kick
+Kick
+Cannot follow another 'AXE KICK'
+ACTION: If this card follows an applicable KICK-TYPE card, Inflict 2 DMG
+-
+-
+1
+0
+1
+1
+1
+1
+
+Stalling
+Kick
+-
+ACTION: Inflict 2 DMG for each invalid Combo breaker in your opponent's Combo before this card.
+-
+-
+0
+0
+1
+1
+1
+0
+
+Volume Striking
+Kick
+-
+ACTION: If this card follows a punch-type card, inflict 2 extra DMG. Reduce DMG from this card to 0 if it follows a copy of itself.
+-
+-
+1
+0
+1
+0
+1
+1
+
+"I"
+Kick
+Must follow an "F" card.
+ACTION: If your Combo is valid and spells out F-I-G-H-T you win the fight.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Disgused intent
+Kick
+-
+ACTION: Before your opponent reveals their card, You can discard 1 Stamina and change the type of this card to a different type. 
+-
+-
+1
+0
+1
+0
+1
+1
+
+Lights Out
+Level Change
+-
+ACTION: Your opponent can select the level.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Suplex
+Level Change
+You must Discard one or more copies of this card from your hand to change levels. 
+PRO WRESTLING ACTION: Inflict 2X DMG equal to the number of cards you discarded.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Trip
+Level Change
+-
+ACTION: Change to the ground level. Only Kick-type cards are valid for the rest of  your Combo. Your Kick-Type cards have no ACTIONs.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Standing Scissor Sweep
+Level Change
+Must follow a kick-type card. Only submission-type cards are valid for the rest of your Combo.
+ACTION: Change levels.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Scramble
+Level Change
+Must be the first card in your Combo. 
+ACTION: If you have more Stamina than your opponent, you can Change levels.
+-
+-
+0
+0
+0
+1
+1
+0
+
+Sweeping Hip Throw
+Level Change
+Must be the last card in your Combo. You must have maximum Stamina.
+ACTION: Change Levels. If your opponent has 0 Stamina, cancel the ACTION of any valid Combo breaker in this Exchange.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Side Drop Toss
+Level Change
+You must have 0 Stamina
+ACTION: Change Levels. If your opponent has full Stamina, reduce the DMG of this card by 1.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Flying Armbar
+Level Change
+You must Discard Stamina equal to this place in your combo, maximum 3.
+BJJ ACTION: Inflict damage equal to the number of cards discarded. Change Levels.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Shoulder Throw
+Level Change
+Must be the last card in your Combo. If your opponent uses a valid Combo breaker against this card, you take 2 DMG.
+ACTION: Change levels and Inflict 1 DMG to your Fighter
+-
+-
+1
+0
+1
+0
+1
+2
+
+Snap Down
+Level Change
+Your opponent can Inflict 1 DMG to their Fighter in order to cancel this card's ACTION.
+ACTION: Change Levels.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Cage Slam
+Level Change
+You must not have any Tokens on your FIGHTER CARD. Your opponent must have at least 1 FATIGUE TOKEN on their Fighter.
+ACTION: Change Levels.
+-
+-
+0
+0
+1
+1
+1
+0
+
+Ankle Pick
+Level Change
+-
+ACTION: If this is exactly the 2nd valid Ankle Pick card in your Combo: Change Levels
+-
+-
+0
+0
+1
+0
+1
+0
+
+Double Jab
+Punch
+-
+BOXING ACTION: If your next card is an applicable PUNCH TYPE, it Inflicts 1 extra DMG.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Quick Jab
+Punch
+Must be the first card in your Combo
+BOXING ACTION: Your opponent cannot reduce damage from this card.
+-
+-
+1
+0
+1
+0
+1
+2
+
+Haymaker
+Punch
+-
+BOXING ACTION: Inflict 2 DMG if you have less cards than your opponent in your hand.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Thai Elbow
+Punch
+You must reveal your Stamina.
+MUAY THAI ACTION: If you have 2 or more ELBOW and/or MUAY THAI ELBOW cards in your hand, you can place one BLEED TOKEN on your opponent's Fighter.  Afterwards, shuffle your hand into your Deck and redraw the same number of Stamina
+-
+-
+1
+0
+1
+0
+1
+1
+
+Swinging Wild
+Punch
+If a copy of this card was revealed in 'RAGE', you can use the ACTION: 
+STREET BRAWLER ACTION: Your opponent must discard one Stamina
+-
+-
+1
+0
+1
+0
+1
+1
+
+Eye-Gouge
+Punch
+You must have the KRAV MAGA fighting style in order to use the ACTION, otherwise this card is invalid.
+KRAV MAGA ACTION: You can select one card in your opponent's Discard Pile, Place this card on top of your ATTACK DECK, and use their card in this card's place.
+-
+-
+1
+0
+1
+0
+1
+2
+
+Stiff Jab
+Punch
+-
+ACTION: Place cards from you or your opponent's discard pile into the bottom of the appropriate deck (Maximum 3). Inflict 1 damage per each card moved this way.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Karate Chop
+Punch
+
+KARATE ACTION: Send 1 card with a KARATE ACTION from your Deck to the Discard Pile.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Double Fist Punch
+Punch
+If you have a card with a KARATE ACTION in your Discard Pile, choose 1
+KARATE ACTION: A) Send 1 card with a KARATE ACTION from your Deck to the Discard Pile - OR  - B) Inflict 3 Extra DMG
+-
+-
+0
+0
+1
+0
+1
+0
+
+Set up the Shot
+Punch
+Must follow a Punch-Type or Special-Type card from either player.
+ACTION: If your next card is a TAKEDOWN card, Your opponent cannot cancel its Action without a combo-breaker type card. If your previous card was a JAB card, inflict 1 extra DMG
+-
+-
+1
+0
+1
+0
+1
+1
+
+Wax On
+Punch
+If you have a card with a KARATE ACTION in your Discard Pile, choose 1
+KARATE ACTION: A) Send 1 card with a KARATE ACTION from your Deck to the Discard Pile - OR  - B) Inflict 2 DMG per card with a KARATE ACTION in your Discard Pile
+-
+-
+0
+0
+1
+0
+1
+0
+
+Kickboxing Combination
+Punch
+You must have used at least 2 valid punch-type and valid 2 kick-type cards before this card.
+-
+-
+-
+1
+0
+1
+0
+1
+4
+
+Slap
+Punch
+-
+ACTION: Inflict 1 DMG per 'SLAP' card in your Discard Pile.
+-
+-
+0
+0
+1
+1
+1
+0
+
+Windmill
+Punch
+-
+ACTION: Inflict 1 DMG for each 'Windmill' card in your Combo before this card.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Hammer Fist
+Punch
+-
+ACTION: Inflicts extra DMG equal to the number of 'Hammer Fist' cards in this Combo before this card.
+-
+-
+1
+0
+0
+1
+1
+1
+
+Lead Hook
+Punch
+-
+ACTION: Display the top 3 cards of your opponent's DEFENCE Deck. Inflict 1 DMG for every GRAPPLING card displayed
+-
+-
+0
+0
+1
+0
+1
+0
+
+After the bell
+Punch
+Must be the last card in the ROUND.
+ACTION: Inflict 4 damage.
+-
+-
+0
+0
+1
+1
+1
+0
+
+Overhand
+Punch
+You must Discard 1 card from your Stamina, otherwise reduce DMG from this card to 0.
+ACTION: If the next card in your combo is a Kick-Type card, you can refill 1 Stamina at the end of that Exchange.
+-
+-
+1
+0
+1
+0
+1
+3
+
+Uppercut
+Punch
+If this card follows a Punch-Type card, its base DMG is 2.
+ACTION: If the next card in your Combo is a KICK-TYPE card, increase its base DMG by 1. 
+-
+-
+1
+0
+1
+0
+1
+1
+
+Sucker Punch
+Punch
+Must be the first card in your Combo. 
+ACTION: If your opponent reduces DMG from this card: End the Combo.
+-
+-
+1
+0
+1
+0
+1
+3
+
+Claw Hand
+Punch
+While this card is in your Combo, the base DMG of this card is 1.
+ACTION: While any number of copies of CLAW HAND are in your Discard Pile, all CLAW HAND cards in your combo inflict 1 extra DMG.
+-
+-
+1
+0
+1
+0
+1
+3
+
+Superman Punch
+Punch
+-
+ACTION: If your opponent reveals an applicable 'COUNTER PUNCH' card against this card, cancel its ACTIONs and Inflict 5 DMG to your opponent. If your opponent plays any other card, they can end your Combo.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Palm Strike
+Punch
+-
+ACTION: You can Discard 1 ATTACK Stamina, and inflict its base DMG as extra DMG. If this card follows a Punch-Type card, you can refill 1 Stamina at the end of this Exchange.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Shovel Hook
+Punch
+Reveal your Stamina
+ACTION: Inflict DMG to your opponent equal to the number of ATTACK cards in your stamina. Trade your Stamina with your Deck.
+-
+-
+0
+0
+1
+1
+1
+0
+
+Elbow
+Punch
+If this combo has a sucessful level-change type card in it and ends in the ground level:
+ACTION: Your submission-type cards are invalid for the rest of the combo. You can give your opponent the BLEED TOKEN at the end of this combo.
+-
+-
+1
+0
+0
+1
+1
+1
+
+Diving Punch
+Punch
+-
+ACTION: Reduce DMG from your opponent's Submission-Type card in this Exchange by 2
+-
+-
+1
+0
+1
+1
+1
+1
+
+Fade Away Cross
+Punch
+Must follow a card with 'JAB' in the title.
+ACTION: If you have less HP than your opponent, Cancel the Action of any valid combo breaker in this exchange.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Work The Body
+Punch
+-
+ACTION: If this card follows a Special-Type card, your opponent must discard 1 Stamina.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Windmill
+Punch
+-
+ACTION: Deal 1 DMG for every Windmill prior to this one in your Combo.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Henry's Counter Counter
+Punch
+Your Fighter must be henry. If your opponent plays a valid Combo breaker in this Exchange: 
+ACTION: Cancel the Combo breaker's ACTION, and Inflict 2 extra DMG.
+-
+-
+0
+0
+1
+0
+1
+0
+
+12-6 Elbow
+Punch
+Once per Combo, otherwise this card is invalid.
+ACTION: If you have used a card with special-type card with 'MOUNT' in its title, place one BLEED TOKEN on your opponent's Fighter
+-
+-
+1
+0
+0
+1
+1
+1
+
+Ground and Pound
+Punch
+-
+ACTION: If you have successfully used FULL MOUNT in this Combo before this card: This card Inflicts extra DMG equal to all the base DMG of all ATTACK or GRAPPLING cards in your Stamina, totalled. Discard 1 Stamina afterwards.
+-
+-
+1
+0
+0
+1
+1
+1
+
+Punches in Bunches
+Punch
+-
+ACTION: All valid punch-type cards in your combo after this card inflict 1 extra DMG
+-
+-
+0
+0
+1
+0
+1
+0
+
+Gaining Momentum
+Punch
+
+ACTION: If you have used at least 2 valid punch-type cards in your combo before this card, Refill 1 Stamina.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Sumo Slap
+Punch
+You can pay up to 4 HP
+SUMO ACTION: Inflict extra DMG equal to the number of HP paid.
+-
+-
+1
+0
+1
+0
+1
+1
+
+"F"
+Punch
+Must be the first card in your Combo.
+ACTION: If your Combo is valid and spells out F-I-G-H-T you win the fight.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Rage
+Special
+-
+ACTION: Display the the top card of your deck until a card with a STREET BRAWLER ACTION has been revealed. Copies of that card in your combo now inflict double base damage
+-
+-
+0
+0
+1
+1
+1
+0
+
+Throat Attack
+Special
+You must have the KRAV MAGA fighting style to use this ACTION, otherwise this card is invalid.
+KRAV MAGA ACTION: Double the base DMG of all cards with a KRAV MAGA ACTION for this Combo.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Aú Batido
+Special
+All valid cards with a Capoeira ACTION now Inflict 2 extra DMG for this Combo.
+CAPOEIRA ACTION: Send two cards with a CAPOEIRA ACTION to your Discard Pile.
+-
+-
+0
+0
+1
+0
+1
+0
+
+The Brutal Ballet
+Special
+-
+SAVATE ACTION: BEFORE AN EXCHANGE BEGINS: While this card is in your Discard Pile, all kick-type cards in your Combo become SAVATE ACTIONS.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Cardio Conditioning
+Special
+LIMIT 1 Special-Type ATTACK Card per 2 Decks. All DMG to your opponent is reduced to 0 for this Combo. Before Combos set:
+ACTION: Send this card and one KICK-TYPE card from your Stamina to the Discard Pile. Display your opponent's unrevealed Combo combo cards and rearrange them.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Precision Punches
+Special
+Must be the last card in your Combo. 
+ACTION: If your Combo was entirely made of valid punch-type cards before this card, your opponent must discard 1 Stamina.
+-
+-
+1
+0
+1
+0
+1
+1
+
+Spinning
+Special
+-
+ACTION: Double the base DMG of your next Punch-Type card. If your opponent reduces any DMG from that card, or cancels its ACTIONs: End your Combo.
+-
+-
+0
+0
+1
+0
+1
+0
+
+BRAWL
+Special
+ONE SPECIAL-TYPE ATTACK CARD PER DECK.
+ACTION: When you reveal a punch-type card in this Combo, you can discard 1 Stamina. Double the BASE DMG of your punch-type cards in this Combo
+-
+-
+0
+0
+1
+1
+1
+0
+
+Flying _____
+Special
+-
+ACTION: Double the base DMG of your next Punch Type or Kick-Type card. If your opponent reduces any DMG from that card, or cancels its ACTIONs: End your Combo.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Razzle Dazzle
+Special
+-
+ACTION: Switch your opponents defence card with a different card in their Combo
+-
+-
+0
+0
+1
+1
+1
+0
+
+Full Mount
+Special
+Your opponent can discard 1 card to cancel this card's ACTION and end the Combo:
+ACTION: Reduce submission-type DMG from your opponent to 0. Only Punch-Type and Submission-type cards from either player are valid for the rest of the Combo.
+-
+-
+0
+0
+0
+1
+1
+0
+
+Side Mount
+Special
+Your Opponent can discard 1 card to cancel this card's ACTION;
+ACTION: Only submission-type cards from either player are valid until the end of the Combo
+-
+-
+0
+0
+0
+1
+1
+0
+
+Taunt
+Special
+-
+ACTION: Place your opponent's unrevealed Defence card into the bottom of their Deck. Replace it with the top card of their Deck.
+-
+-
+0
+0
+1
+1
+1
+0
+
+Warrior's Revenge
+Special
+-
+ACTION: If you took 10 or more damage during this combo, increase your max stamina by 2 for the rest of the game and refill your hand.
+-
+-
+0
+0
+1
+1
+1
+0
+
+Focus
+Special
+Cannot be the first card in your Combo.
+ACTION: If your opponent reveals a valid Combo-breaker against your next card, ignore any sentence that ends the Combo. Other ACTIONs can still apply
+-
+-
+0
+0
+1
+0
+1
+0
+
+Back Mount
+Submission
+Only valid if you have used another card with MOUNT in the title.
+ACTION: Until the end of the Combo, your opponent cannot reduce the DMG of your submission-type cards.
+-
+-
+1
+0
+0
+1
+1
+1
+
+Overtrained
+Special
+One Special-Type red card per decks.
+ACTION: If you would Discard a Stamina you can eject this card from your Discard pile. It cannot be placed back into your deck for the rest of the fight.
+-
+-
+0
+0
+1
+0
+1
+0
+
+Stuffed Shot
+Combo Breaker
+-
+ACTION: If your opponent reveals a level-change type card and your opponent's Discard Pile has no level change-type cards, reduce all damage in this exchange to 0 and end the Combo.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Pass the leg
+Combo Breaker
+-
+ACTION: If your opponent reveals a Kick-type card and your opponent's Discard Pile has no Kick-type cards, Reduce its DMG to 0, Cancel its Actions and end the combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Cover and Rush
+Combo Breaker
+-
+ACTION: If your opponent reveals a punch-type card and your opponent's Discard Pile has no Punch-type cards, They must discard one Stamina end the Combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Sit Out
+Combo Breaker
+Valid only if your opponent has revealed a valid level-change type card. Reduce its DMG to 0.
+PANKRATION ACTION: End the Combo.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Over-Under
+Combo Breaker
+Valid if your opponent has used a Level-Change type card in this Exchange.
+ACTION: Reduce the DMG from your opponent's level-change type card to 0 and cancel its Actions. If it was an Attack Class card, End the Combo
+-
+-
+0
+0
+1
+1
+0
+0
+
+Weather the storm
+Combo Breaker
+Must be revealed against a valid punch-type card
+ACTION: Give your opponent either a BLEED, FATIGUE or DOUBT TOKEN. End the Combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Baiting Chin
+Combo Breaker
+If your opponent uses a valid KICK-TYPE card, place one FATIGUE TOKEN on your Fighter.
+ACTION: If your opponent has just revealed a valid PUNCH-TYPE card, Place one STUN TOKEN on their Fighter. End the Combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Slippery escape
+Combo Breaker
+Only valid if you have more BLEED TOKENS on your Fighter than your opponent.
+ACTION: If your opponent has reveals a valid submission-type card: End the Combo.
+-
+-
+0
+0
+0
+1
+0
+0
+
+Tactical Retreat
+Combo Breaker
+If your opponent reveals a level-change type card in this exchange:
+ACTION: You can change to the Standing level. Reduce DMG in this Exchange to 0. Cancel its Actions and End the combo.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Block Kick
+Combo Breaker
+-
+ACTION: If your opponent reveals a KICK-TYPE card, Reduce all DMG from your opponent's Kick-Type card to 0. Other ACTIONs can still apply. End the Combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Back Fist
+Combo Breaker
+-
+ACTION: You take double base DMG from your opponent's successful punch or kick-type cards. If your opponent reveals an applicable level-change or special-type card: reduce DMG from that card to 0, cancel its ACTIONs. End the Combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Rising Hand
+Combo Breaker
+Must be revealed against a valid punch-type card
+ACTION: You can End the Combo or send the top 2 cards from your deck to the discard pile and give your opponent a fatigue token.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Fancy Footwork
+Combo Breaker
+Only valid against kick-type cards.
+ACTION: Cancel your opponent's card Action. If your opponent's Kick-Type card has the same name as 1 other cards in this combo before this card, you can end the combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Peek-A-Boo
+Combo Breaker
+Only valid against punch-type cards.
+ACTION: Reduce DMG by 1. If your opponent's Punch-Type card has the same name as 1 other cards in this combo before this card, end the Combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Combat Preparation
+Combo Breaker
+-
+ACTION: If your opponent's card deals no damage, end the combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Evasion
+Combo Breaker
+Only valid against your opponent's valid KICK-TYPE card.
+ACTION: You take no DMG from Kick-Type cards. Your opponent must discard 1 card or their Combo is ended. Kick-Type ACTIONs may still apply.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Return Fire
+Combo Breaker
+-
+ACTION: If your opponent forced you to Discard at least 1 Stamina in this Exchange, They must Discard 2 Stamina. If they cannot, end the combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Deep Breath
+Defense
+-
+ACTION: If this card follows a Defense-Type card, reduce damage from any ATTACK card in this Exchange by 2.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Mental Toughness
+Defense
+Your Opponent's Submission-Type card in this Exchange, it has no action.
+PRO WRESTLING ACTION: If your opponent reveals a submission-type card, reduce DMG from their card to 0. Then, they must discard 1 Stamina.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Up Kick
+Defense
+Discard 1 Stamina:
+ACTION: This card Inflicts the total damage of your opponent's ATTACK card in this Exchange to your opponent as well.
+-
+-
+0
+0
+0
+1
+0
+0
+
+Take a Breather
+Defense
+-
+ACTION: If your opponent did not deal damage during this exchange, restore 2 life.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Heart of a Champion
+Defense
+Discard 1 Stamina and select one:
+ACTION: A) Shuffle your opponent's Discard Pile into their deck - OR - B) Shuffle your Discard Pile into your Deck.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Fool me once
+Defense
+Only valid against Kick-Type cards. Reduce DMG from your opponent's kick-type card by 1 in this Exchange.
+STREET BRAWLER ACTION: DMG from future copies of the kick-type card in this Exchange are reduced to 0 for the rest of the Combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Adrenaline
+Defense
+Once per combo, If this card is in your Discard Pile and you do not have Maximum Stamina:
+ACTION: At the end of your combo, you can return this card to your Stamina.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Underhook
+Defense
+Discard any number of Stamina from your hand, otherwise this card is invalid.
+ACTION: Reduce Damage from your opponent's Submission-Type card by 1 for each card Discarded. If you Discarded any Submission-type cards, reduce DMG from all copies of that card to 0 for the rest of the combo.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Uneasy Limp
+Defense
+-
+ACTION: Reduce damage from your opponent's Kick-Type card by the number of tokens on your fighter.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Head Movement
+Defense
+-
+ACTION: Reduce DMG from your opponent's valid Punch-Type card by 1 for each HEAD MOVEMENT card in your combo (including this card).
+-
+-
+0
+0
+1
+0
+0
+0
+
+Protect The Leg
+Defense
+-
+ACTION: If the first card in your combo was 'Protect The Leg' and your opponent has used a valid Kick-Type card in this exchange: Refill 1 Stamina.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Switching Stances
+Defense
+-
+ACTION: Send the top card of your Deck to the Discard Pile. If it is a DEFENCE card, you must replace it with 1 unrevealed card in your Combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Step Back
+Defense
+Must be revealed against a valid KICK-TYPE card.
+ACTION: Cancel its ACTION, reduce its DMG to 0. Give your opponent's Fighter 1 DOUBT TOKEN.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Bridge and Shrimp
+Defense
+Only valid against submission-type cards.
+ACTION: If your opponent's Submission-Type card has the same name as 1 other cards in this combo before this card, You can inflict Any DMG from your opponent's card to your opponent and Change Levels.
+-
+-
+0
+0
+0
+1
+0
+0
+
+RIP
+Defense
+-
+ACTION: If you reveal this card against a valid KICK TYPE card: Cancel its ACTIONs and reduce DMG from their card to 0. Place one DOUBT TOKEN on your opponent's Fighter
+-
+-
+0
+0
+1
+0
+0
+0
+
+Returning Confidence
+Defense
+-
+ACTION: If you successfully use a Combo BREAKER-TYPE card in this Combo, draw to your maximum Stamina
+-
+-
+0
+0
+1
+1
+0
+0
+
+Boxing Clinch
+Defense
+-
+ACTION: Only punch-type card are valid for the rest of the Combo
+-
+-
+0
+0
+1
+0
+0
+0
+
+Thai Clinch
+Defense
+Neither player may have any TOKENs on their Fighter, otherwise this card is invalid.
+ACTION: Select 1 BLEED TOKEN or STUN TOKEN and place it on both Fighters. Both Fighters must have the same TOKEN.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Mutual Respect
+Defense
+-
+ACTION: You and your opponent must Trade your Stamina with your Decks
+-
+-
+0
+0
+1
+1
+0
+0
+
+Nasty Cut
+Defense
+-
+ACTION: If your opponent has played 3 or more invalid GRAPPLING cards in this Combo before this card, place 1 BLEED TOKEN on their Fighter
+-
+-
+0
+0
+1
+1
+0
+0
+
+Headbutt
+Defense
+Only valid if you have more HP than your opponent. Place one BLEED TOKEN on your Fighter
+ACTION: If your opponent has 0 Stamina, place 1 BLEED TOKEN on their Fighter.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Check Hook
+Defense
+-
+ACTION: If your opponent has played 3 or more invalid ATTACK cards in this Combo before this card, place 1 STUN TOKEN on their Fighter
+-
+-
+0
+0
+1
+0
+0
+0
+
+Pull Guard
+Defense
+You must reveal your hand. 
+ACTION: Reduce all DMG from Submission-type cards by 1 for each Defence card in your hand.
+-
+-
+0
+0
+0
+1
+0
+0
+
+Trash Talk
+Defense
+-
+ACTION: If you can predict the EXACT TITLE of the next card in your opponent's Combo, you can place one DOUBT TOKEN on their Fighter.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Slip
+Defense
+-
+ACTION: If you reveal this card against a valid PUNCH TYPE card: Your opponent must DISCARD a card of their choice from their hand, if any. If your opponent cannot, cancel its ACTIONs and reduce DMG from their card to 0.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Rope-a-dope
+Defense
+Must follow slip. 
+ACTION: Discard three Stamina to break the Combo
+-
+-
+0
+0
+1
+0
+0
+0
+
+Composure
+Defense
+In this Exchange:
+ACTION: Reduce DMG from your opponent's ATTACK card in this Exchange by 1. If you do not have Maximum Stamina, reduce DMG from Submission-type cards to 0.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Sumo Shove
+Defense
+Pay 5 HP:
+SUMO ACTION: Refill to your maximum Stamina.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Catherine's Cover Up
+Defense
+If your Fighter is Catherine, you can use this in any level.
+ACTION: Reduce DMG from your opponent's ATTACK card in this Exchange by 2. 
+-
+-
+0
+0
+0
+1
+0
+0
+
+Monkey Style
+Defense
+-
+KUNG FU ACTION: If you have a valid Level-change type card in your Discard pile, you can trade it this card with it. If you do, you can Refill 1 Stamina after this Exchange.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Monkey Temp Style
+Defense
+Reduce DMG you receive in this exchange by 2.
+Kung Fu Action: Send the next card in your combo to the discard pile.  Replace it with a card from your deck that has a Kung Fu Action.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Eagle Style
+Defense
+-
+KUNG FU ACTION: If you have a valid COMBO BREAKER-type card in your Discard Pile, you can Trade this card with it.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Eagle Temp Style
+Combo Breaker
+You can reduce DMG you receive in this Exchange by 2.
+Kung Fu Action: If this card follows another Kung Fu Action, you can send the next card in your combo to the DP and search your deck for any Combo-Breaker Type card to replace it.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Mantis Style
+Defense
+-
+KUNG FU ACTION: If you have a valid COMBO BREAKER-type card in your Discard Pile, you can Trade this card with it.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Mantis Temp Style
+Defense
+-
+For each Kung Fu action revealed in your combo before this card, this card gains the following actions: 1+ Change to the Standing Level, 2+ Cancel any actions of your opponent’s card and end the combo, 3+ Your opponent must discard all their stamina.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Bob and Weave
+Defense
+Only valid against your opponent's valid PUNCH-TYPE card.
+ACTION: If you have 0 Stamina, draw 1 card. Reduce DMG from the Punch to 0.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Rock Hard Abs
+Defense
+Discard 1 stamina, otherwise this card is invalid.
+ACTION: Deal any damage you take during this exchange to your opponent as well.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Future Sight
+Defense
+-
+ACTION: If you take no damage in the next exchange, you take no damage in the exchange after that one.
+-
+-
+0
+0
+1
+0
+0
+0
+
+The O'l Switcheroo
+Defense
+-
+ACTION: You may switch target token for a token of your choice.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Thick Skull
+Defense
+Only valid against your opponent's valid PUNCH-TYPE card.
+ACTION: Reduce attack DMG by 1
+-
+-
+0
+0
+1
+1
+0
+0
+
+All's Fair
+Defense
+-
+ACTION: If you receive a TOKEN in this Exchange, place a TOKEN of your choice on your opponent's Fighter.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Kickboxing Guard
+Defense
+-
+ACTION: Reduce DMG of all the kick-type cards from your opponent by 2 for each grappling card in your Discard Pile until the end of the Combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Doctor
+Defense
+-
+ACTION: You can discard any number of cards from your hand. This removes the same number of TOKENs from your Fighter.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Boxing Guard
+Defense
+-
+ACTION: Reduce DMG from your opponent's Punch-type cards by 1 for each grappling card in your Discard Pile until the end of the Combo
+-
+-
+0
+0
+1
+0
+0
+0
+
+Butterfly Guard
+Defense
+Inflict 4 DMG to your Fighter.
+ACTION: Reduce DMG from all Punch-Type cards from your opponent to 0 for the rest of the Combo
+-
+-
+0
+0
+0
+1
+0
+0
+
+Leg Injury
+Defense
+This card must always be Face up if it is placed in your an ATTACK DECK.
+LAAMB ACTION: Shuffle this card into your opponent's ATTACK DECK. If this card is Discarded to your opponent's Discard Pile or revealed in their ATTACK Combo, reduce DMG by all kick-type cards by 1 for the rest of the Combo, then Eject this card.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Arm Injury
+Defense
+This card must always be Face up if it is placed in your opponent's Deck.
+LAAMB ACTION: Shuffle this card into your opponent's Deck. Each time this card is revealed in your opponent's Combo, reduce DMG from your opponent's punch type cards by 1 for the Combo. Afterwards, Eject this card.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Better Balance
+Level Change
+Must follow a special-type card from either player. You must be at maximum Stamina.
+PANKRATION ACTION: Place one doubt TOKEN on your opponent's Fighter. Change Levels
+-
+-
+0
+0
+1
+1
+0
+0
+
+Cage Walk
+Level Change
+Your opponent must have used at least 1 successful level-change type card in this Combo.
+ACTION: Change Levels
+-
+-
+0
+0
+0
+1
+0
+0
+
+Technical Stand Up
+Level Change
+You must Discard your Maximum Stamina OR lose half your HP (rounded up)
+ACTION: Reduce DMG during this Exchange to 0, cancel your opponent's card Action. Change levels. All other level-change cards are invalid for the rest of the combo.
+-
+-
+0
+0
+0
+1
+0
+0
+
+Referee Stand Up
+Level Change
+You must reveal your hand. If your Maximum Stamina is 1, you can Discard 1 Stamina instead.
+ACTION: If you have at least 2 cards with the SAME NAME in your hand, you can change to the STANDING LEVEL. 
+-
+-
+0
+0
+0
+1
+0
+0
+
+Hip Escape
+Level Change
+-
+ACTION: If you have received 0 DMG in this combo, change levels. If this is the first card in your combo, you must discard 1 Stamina.
+-
+-
+0
+0
+0
+1
+0
+0
+
+Counter Knockdown
+Level Change
+Valid if your opponent revealed a valid Punch-Type card. Your opponent chooses one:
+ACTION: A) Change to the Ground Level or B) Reduce DMG from their card to 0.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Kick Catch
+Level Change
+-
+ACTION: If you reveal this card against an applicable KICK TYPE card: You can change to the GROUND LEVEL.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Flexibility Conditioning
+Special
+LIMIT 1 Special-Type DEFENCE Card per 2 Decks. All DMG to your opponent is reduced to 0 for this Combo. Before combos are set:
+ACTION: Send this card and one Combo-Breaker Type card from your Stamina to the Discard Pile. Reduce all DMG to your fighter to 0 for the rest of the combo.
+-
+-
+0
+0
+0
+1
+0
+0
+
+Side Step
+Special
+-
+ACTION: Send 1 card from your deck to your Discard Pile (your choice). If you do and have 0 Stamina, you can refill 1 Stamina.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Warriors Spirit
+Special
+-
+ACTION: If your HP would be reduced to 0 in this Exchange, you can reduce all DMG from your opponent to 0 for this Exchange.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Work the Crowd
+Special
+Must be the last card in your Combo. If all the cards in your Combo were either GRAPPLING or DEFENCE cards (but not both),
+ACTION: You can draw to your maximum Stamina.
+-
+-
+0
+0
+1
+0
+0
+0
+
+keep your distance
+Special
+Draw a card. Your opponent may draw cards up to their maximum Stamina.
+-
+-
+-
+0
+0
+1
+0
+0
+0
+
+Telegraphed Strike
+Special
+-
+ACTION: Display the next card of your Combo.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Parry
+Special
+1 SPECIAL-TYPE Defence CARD PER DECK.
+ACTION: SELECT 1: A) Reduce DMG from the next ATTACK card in your opponent's Combo to 0. -Or- B) Reduce DMG from the ATTACK card your opponent just played to 0.
+-
+-
+0
+0
+1
+0
+0
+0
+
+Escape
+Special
+1 SPECIAL-TYPE Defence CARD PER DECK
+ACTION: SELECT 1: A) Change to the STANDING LEVEL or B) Reduce all ATTACK DMG from this Exchange to 0.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Reversal
+Special
+1 SPECIAL-TYPE Defence CARD PER DECK
+ACTION: Before the next exchange, swap your set card with you opponent's set card. You attack during this exchange.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Pinned
+Special
+If you are using a card with TAKEDOWN in its title, this card in your hand can be discarded as a GRAPPLING CLASS card.
+PANKRATION ACTION: While this card is in your Discard Pile, your opponent's special-type cards are invalid.
+-
+-
+0
+0
+1
+1
+0
+0
+
+So Predictable
+Special
+-
+ACTION: If the card revealed by your opponent in this Exchange is revealed again in your opponent's Combo, it is invalid and ends the Combo.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Recurring Injury
+Special
+This card must always be face up if placed in an ATTACK DECK.
+ACTION: Shuffle this card into your opponent's ATTACK DECK. If this card is revealed in an ATTACK Combo, end the Combo. Eject this card if it ends a Combo.
+-
+-
+0
+0
+1
+1
+0
+0
+
+High Pressure Point
+Special
+This card must always be face up if placed in an ATTACK DECK.
+ACTION: Shuffle this card into your opponent's ATTACK DECK. If this card is revealed in an ATTACK Combo, Your opponent must discard 1 Stamina. Eject this card if it ends a Combo
+-
+-
+0
+0
+1
+1
+0
+0
+
+Low Pressure Point
+Special
+This card must always be Face up if it is placed in your opponent's Deck. Both players can use this ACTION.
+ACTION: Shuffle this card into your opponent's Deck. Each time this card is revealed in your opponent's Combo, end the Combo. Return this card to your Deck after it has been revealed
+-
+-
+0
+0
+1
+1
+0
+0
+
+Dig Deep
+Special
+You cannot have Maximum Stamina
+ACTION: Refill 1 Stamina at the end of any exchange where this card was discarded.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Steroids
+Special
+ONE SPECIAL-TYPE DEFENCE CARD PER DECK
+ACTION: Both players refill to Maximum Stamina. 
+-
+-
+0
+0
+1
+1
+0
+0
+
+Butterfly Sweep
+Special
+-
+ACTION: Reduce DMG from Punch-Type cards to 0 for the rest of the Combo
+-
+-
+0
+0
+0
+1
+0
+0
+
+Sumo Slam
+Level Change
+Discard 1 Stamina. Pay up to 5 HP (Minimum 1). 
+SUMO ACTION: Your opponent can pay the same amount of HP as you to cancel this Action. Change Levels.
+-
+-
+0
+1
+1
+1
+0
+0
+
+"G"
+Level Change
+Must follow an "I" card.
+ACTION: Change levels. If your Combo is valid and spells out F-I-G-H-T you win the fight.
+-
+-
+0
+1
+1
+1
+0
+0
+
+Takedown Guard
+Level Change
+-
+ACTION: If your opponent changed levels in this combo before this card, Change levels.
+-
+-
+0
+1
+0
+1
+0
+0
+
+Arm Drag
+Level Change
+Must follow a valid Punch-Type, Special-Type, from either player.
+ACTION: You can Change Levels. Your opponent can discard 1 Stamina to cancel this Action.
+-
+-
+0
+1
+1
+1
+0
+0
+
+Duck-Under Takedown
+Level Change
+Your opponent can Discard the same number of Stamina cards you to cancel this Action: 
+ACTION: Discard any number of level-change type Stamina cards (minimum 1). Inflict 1 damage per card discarded this way. Change levels.
+-
+-
+0
+1
+1
+1
+0
+0
+
+Double-Underhook Slam
+Level Change
+Both players must have 5+ Health. Your opponent chooses one:
+ACTION: A) The user of this card takes 1 damage, and you take 2 damage - OR - B) Change levels
+-
+-
+0
+1
+1
+1
+0
+0
+
+Fireman's Carry
+Level Change
+You must have at least 5 HP. Inflicts 4 DMG to you. 
+ACTION: Change levels.
+-
+-
+1
+1
+1
+0
+0
+1
+
+Wounded Prey
+Level Change
+-
+ACTION: If your opponent has a TOKEN you can Change levels. Your opponent may remove a TOKEN from their Fighter of their choice.
+-
+-
+0
+1
+1
+1
+0
+0
+
+Double Leg Takedown
+Level Change
+Your opponent can Discard equal Stamina to cancel this Action.
+ACTION: You can discard Stamina cards (Minimum 1) to change levels. If you discard a Stamina card(s) a with a Base Damage, Your opponent must discard a Stamina card(s) with an equal or higher base damage to cancel this action.
+-
+-
+0
+1
+1
+1
+0
+0
+
+Foot Sweep
+Level Change
+-
+ACTION: If your combo has at least 1 valid punch-type and 1 valid kick-type card revealed before this card: Change levels
+-
+-
+0
+1
+1
+0
+0
+0
+
+Body Lock 
+Level Change
+If your opponent has no Stamina, you can change levels without selecting.
+ACTION: Predict the class of any Uncaged card (ATTACK, DEFENCE, GRAPPLING). Select one card in your opponent's Stamina and reveal it. If you are correct, Change levels.
+-
+-
+0
+1
+1
+1
+0
+0
+
+Closed Guard
+Level Change
+Discard 1 card, otherwise this card is invalid.
+ACTION: Reduce DMG from your opponent's submission-type card by 2. If you have at least 1 copy of this card in your Discard Pile, you can change levels.
+-
+-
+0
+1
+0
+1
+0
+0
+
+Ground Stall
+Level Change
+-
+ACTION: If this is the third valid GROUND STALL card in your combo, you can change levels
+-
+-
+0
+1
+0
+1
+0
+0
+
+Whizzer
+Level Change
+-
+If this card changes levels, your opponent's Level-change type cards are invalid for the rest of the combo. ACTION: Send the top card of your Deck to the Discard Pile. If it is a Level-change type card, you can change levels. 
+-
+-
+0
+1
+1
+1
+0
+0
+
+Weight Conditioning
+Special
+LIMIT 1 Special-Type Grappling Card per 2 Decks. All DMG to your opponent is reduced to 0 for this Combo. Before Combos are Set:
+ACTION: Send this card and one KICK-TYPE card from your Stamina to the Discard Pile. Refill to your Maximum stamina.
+-
+-
+0
+1
+1
+1
+0
+0
+
+"T"
+Special
+-
+ACTION: Send this card and one KICK-TYPE card from your Stamina to the Discard Pile.
+-
+-
+0
+1
+0
+1
+0
+0
+
+Wrist Lock
+Special
+ONLY ONE SPECIAL GRAPPLING CARD CAN BE IN YOUR DECK.
+ACTION: If your next card is a submission-type card, double its base DMG
+-
+-
+0
+1
+0
+1
+0
+0
+
+Twister
+Special
+ONLY 1 SPECIAL-TYPE GRAPPLING CARD PER DECK
+ACTION: Inflict 1 DMG for each card in BOTH PLAYER'S Discard Pile
+-
+-
+0
+1
+0
+1
+0
+0
+
+Saved by the bell
+Special
+MUST BE THE LAST CARD IN THE ROUND.
+ACTION: In this Exchange: Reduce all DMG to 0.
+-
+-
+0
+1
+0
+1
+0
+0
+
+DOCTOR CHECK
+Special
+-
+ACTION: Remove ONE TOKEN of any type from your Fighter. 
+-
+-
+0
+1
+1
+1
+0
+0
+
+Neck Crank
+Special
+1 Special-Type Grappling card per deck.
+ACTION: At the end of this exchange, If this card is sent to the discard pile due to the action of a 'NECK TIE' card, you can draw 1 stamina.
+-
+-
+0
+1
+0
+1
+0
+0
+
+Crushing Confidence
+Special
+You can only have 1 special-type grappling card.
+ACTION: Discard 1 Stamina. Your opponent must reveal their hand and discard any number of their Stamina cards with the same base DMG. Treat cards without base DMG as 0 base DMG.
+-
+-
+0
+1
+1
+1
+0
+0
+
+"H"
+Submission
+Must Follow an "G" card.
+ACTION: If your Combo is valid and spells out F-I-G-H-T you win the fight.
+-
+-
+0
+1
+0
+1
+0
+0
+
+Anaconda Choke
+Submission
+-
+ACTION: Inflict 1 extra DMG per each uniquely named valid submission-type card in your Combo before this card.
+-
+-
+1
+1
+0
+1
+0
+1
+
+Rubber Guard
+Submission
+-
+BJJ ACTION: If you have used at least 1 other BJJ ACTION other than RUBBER GUARD in this combo, inflict 2 extra DMG
+-
+-
+1
+1
+0
+1
+0
+1
+
+Kesa Gatame
+Submission
+-
+ACTION: Inflict 2 DMG per Grappling card in your Discard Pile. Shuffle your Discard Pile back into your Deck.
+-
+-
+0
+1
+0
+1
+0
+0
+
+Guard Pass
+Submission
+Must be the LAST CARD in your Combo. Place one FATIGUE TOKEN on your opponent's Fighter.
+-
+-
+-
+0
+1
+0
+1
+0
+0
+
+Vader choke
+Submission
+-
+ACTION: Remove all TOKENs from your opponent's Fighter. Inflict 1 extra DMG for each TOKEN removed.
+-
+-
+1
+1
+0
+1
+0
+1
+
+Truck Roll
+Submission
+You and your Opponent must reveal 1 Stamina.
+ACTION: Your opponent can inflict the base DMG of this card to you instead if they reveal a card with a Higher Base DMG. cards with no base DMG are treated as 0. In a tie, cancel this Action.
+-
+-
+1
+1
+0
+1
+0
+3
+
+Full Nelson
+Submission
+If your opponent has full Stamina when you reveal this card, you must Discard 1 Stamina.
+ACTION: Your opponent draws to maximum Stamina.
+-
+-
+1
+1
+0
+1
+0
+3
+
+Half Nelson
+Submission
+If your opponent has full Stamina when you reveal this card reduce DMG from this card to 0.
+ACTION: Your opponent refills 1 Stamina. 
+-
+-
+1
+1
+0
+1
+0
+3
+
+GogoPlata
+Submission
+You must discard at least 1 Stamina, otherwise this card is invalid
+ACTION: Inflict 1 DMG per ATTACK or DEFENCE card in your Discard Pile.
+-
+-
+0
+1
+0
+1
+0
+0
+
+Ezekiel Choke
+Submission
+-
+ACTION: Your opponent can discard 1 Stamina card from their hand to Inflict 3 DMG to you.
+-
+-
+1
+1
+0
+1
+0
+2
+
+D'arce Choke
+Submission
+-
+ACTION: Inflict 1 DMG per grappling card in your Combo before this card
+-
+-
+0
+1
+0
+1
+0
+0
+
+Leg Knot 
+Submission
+You and your opponent must reveal your hands.
+ACTION: The player with the most GRAPPLING cards in their hand Inflicts 2 extra DMG to their opponent.
+-
+-
+1
+1
+0
+1
+0
+1
+
+Shoulder Pressure
+Submission
+-
+ACTION: Inflict 2 DMG per DOUBT TOKEN placed on your opponent's Fighter
+-
+-
+0
+1
+0
+1
+0
+0
+
+Knee Mount
+Submission
+-
+ACTION: Inflict 2 DMG per FATIGUE TOKEN placed on your opponent's Fighter
+-
+-
+0
+1
+0
+1
+0
+0
+
+Can Opener
+Submission
+-
+ACTION: If your opponent has at least 1 BLEED TOKEN, inflict 2 extra DMG.
+-
+-
+0
+1
+0
+1
+0
+0
+
+North South Choke
+Submission
+-
+ACTION: Inflict 2 DMG per STUN TOKEN placed on your opponent's Fighter
+-
+-
+0
+1
+0
+1
+0
+0
+
+Groin Stretch
+Submission
+-
+ACTION: Your opponent can discard 1 Stamina card from their hand to reduce DMG from this card to 0. If they do, their next card is invalid.
+-
+-
+1
+1
+0
+1
+0
+2
+
+Bicep Slicer
+Submission
+Must follow a Special-Type or any card with TAKEDOWN in the title. 
+ACTION: Inflict 1 DMG for each card in your opponent's Discard Pile.
+-
+-
+0
+1
+0
+1
+0
+0
+
+Crucifix Mount
+Submission
+-
+ACTION: Your opponent can choose 1: Reduce DMG from this card to 0 - OR - Reduce DMG from your next card to 0.
+-
+-
+1
+1
+0
+1
+0
+2
+
+Calf Slicer
+Submission
+Must follow a Special-Type or any card with TAKEDOWN in the title. 
+SAMBO ACTION: Inflict 1 DMG for each GRAPPLING CARD in your Discard Pile.
+-
+-
+1
+1
+0
+1
+0
+1
+
+Ankle Lock
+Submission
+Place 1 Fatigue TOKEN on your Fighter
+SAMBO ACTION: If this card follows a level-change type card, you do not have to place a TOKEN on this card.
+-
+-
+1
+1
+0
+1
+0
+3
+
+Cage Clinch
+Submission
+Your Opponent's submission-type card has no Action.
+PRO WRESTLING ACTION: If your opponent reveals GRAPPLING card in this Exchange, Inflict the base DMG of their card to your opponent.
+-
+-
+1
+1
+0
+1
+0
+2
+
+Heel Hook
+Submission
+Place 1 Doubt TOKEN on your Fighter
+SAMBO ACTION: If this card follows a level change-type card, Inflict 1 extra DMG
+-
+-
+1
+1
+0
+1
+0
+3
+
+Rolling Armbar
+Submission
+-
+BJJ ACTION: If this card follows a valid 'TAKEDOWN' card from either player and you do not have Maximum Stamina, You can refill 1 Stamina.
+-
+-
+1
+1
+0
+1
+0
+2
+
+Kimura Armlock
+Submission
+-
+ACTION: Inflict 1 damage per Submission-Type card in your opponent's Discard Pile
+-
+-
+0
+1
+0
+1
+0
+0
+
+Omaplata Armlock
+Submission
+-
+ACTION: Inflict 2 DMG per Special-Type card in your opponent's Discard Pile
+-
+-
+1
+1
+0
+1
+0
+1
+
+Americana Armlock
+Submission
+-
+ACTION: Inflict 1 DMG per Defence Card in your opponent's Discard Pile.
+-
+-
+1
+1
+0
+1
+0
+2
+
+Arm Triangle
+Submission
+-
+ACTION: Inflict 1 extra DMG per valid card with TRIANGLE in its title before this card
+-
+-
+1
+1
+0
+1
+0
+2
+
+Reverse Triangle
+Submission
+Your opponent cannot reduce the base DMG of this card
+-
+-
+-
+1
+1
+0
+1
+0
+2
+
+Triangle
+Submission
+In this Exchange:
+ACTION: If there is a Level-change type card in this exchange, inflict 3 extra DMG
+-
+-
+1
+1
+0
+1
+0
+1
+
+Submission String
+Submission
+Must be the last card in your Combo. Select one ACTION if your card was entirely valid SUBMISSION-TYPE cards:
+ACTION: A) Your opponent must discard 1 Stamina - or - B) You gain one Stamina (You cannot have maximum Stamina)
+-
+-
+0
+1
+0
+1
+0
+0
+
+Japanese Necktie
+Submission
+-
+ACTION: If this card inflicts damage, you can search for 1 SPECIAL-TYPE card from your deck and Trade it with 1 Stamina.
+-
+-
+1
+1
+0
+1
+0
+1
+
+Peruvian Necktie
+Submission
+-
+ACTION: You can discard one SPECIAL-TYPE card from your stamina. If you do, inflict 2 extra damage.
+-
+-
+1
+1
+0
+1
+0
+1
+
+Shin Buster
+Submission
+-
+ACTION: If revealed against an invalid combo breaker, ignore any action that ends the combo for the rest of the combo.
+-
+-
+1
+1
+0
+1
+0
+1
+
+Lateral Movement
+Combo Breaker
+You take double base DMG from your opponent's successful punch or kick-type cards.
+ACTION: If your opponent reveals a valid level-change or special-type card: reduce DMG from that card to 0, cancel its ACTIONs. End the Combo.
+-
+-
+0
+0
+1
+1
+0
+0
+
+Toe Hold
+Submission
+-
+ACTION: Must follow a successful level-change-type or Special-type card from either player.
+-
+-
+1
+1
+0
+1
+0
+3
+
+Any Means Necessary
+Level Change
+You take 2X the base DMG from any Submission-Type cards in this Exchange.
+ACTION: Change to the Standing Level. 
+-
+-
+0
+1
+0
+1
+0
+0
+
+Wit of the Warrior
+Level Change
+You can only use WIT OF THE WARRIOR once per Combo.
+ACTION: Before Combos are set, you can search your deck for one Level-Change Type card and add it to your hand. Discard this card and shuffle your deck.
+-
+-
+0
+1
+0
+1
+0
+0
+
+Will of the Warrior
+Kick
+You can only use WILL OF THE WARRIOR once per Combo.
+ACTION: Before Combos are set, you can search your deck for one Kick-Type card and add it to your hand. Discard this card and shuffle your deck.
+-
+-
+1
+0
+1
+0
+1
+0
+
+Way of the Warrior
+Punch
+You can only use WAY OF THE WARRIOR once per Combo.
+ACTION: Before Combos are set, you can search your deck for one PUNCH-Type card and add it to your hand. Discard this card and shuffle your deck.
+-
+-
+0
+0
+1
+1
+1
+0
+
+Wish of the Warrior
+Defense
+You can only use WISH OF THE WARRIOR once per combo.
+ACTION: Before Combos are set, you can search your deck for one DEFENCE-Type card and add it to your hand. Discard this card and shuffle your deck.
+-
+-
+0
+0
+1
+1
+0
+0
